@@ -16,7 +16,7 @@ This guide provides a step-by-step walkthrough for downloading, installing, and 
 
 3. Click on **"Download Now"** under *Workstation 17 Pro for Windows*.
 
-   ![Download VMware](images/Screenshot-2025-05-22-124540.png)  
+   ![Download VMware](Screenshot 2025-05-22 124540.png)  
    ![Download Page](images/Screenshot-2025-05-22-124637.png)  
    ![Form Fill](images/Screenshot-2025-05-22-124808.png)
 
